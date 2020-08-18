@@ -19,6 +19,9 @@ You must perform a "npm install" in the directory hosting the package file and r
 ## Usage 
 This application can be used to quickly create a formatted README.md file.
 
+# Screenshots : 
+|![Command Line Screenshot](screen.jpg)
+
 ## License
 ISC
 
