@@ -46,5 +46,5 @@ ISC
 
 ## Contributor
 * Brandon Johnson
-* Github: https://github.com/sheikb08
+* Repository: https://github.com/sheikb08/ReadMeGenerator
 
