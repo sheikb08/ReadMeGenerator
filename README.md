@@ -29,7 +29,6 @@ ISC
 Brandon Johnson
 
 ## Test
-N/A
 
 Contact Information:
 Github: https://github.com/sheikb08
