@@ -20,7 +20,7 @@ You must perform a "npm install" in the directory hosting the package file and r
 This application can be used to quickly create a formatted README.md file.
 
 # Screenshots : 
-|![Command Line Screenshot](images/screen.jpg)
+|![Command Line Screenshot](images/screen.JPG)
 
 ## License
 ISC
