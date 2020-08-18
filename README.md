@@ -46,6 +46,5 @@ ISC
 
 ## Contributor
 * Brandon Johnson
-* Contact Information:
 * Github: https://github.com/sheikb08
 
