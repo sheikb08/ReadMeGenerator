@@ -44,11 +44,8 @@ This application can be used to quickly create a formatted README.md file.
 ## License
 ISC
 
-## Contributors
+## Contributor
 Brandon Johnson
-
-## Test
-
 Contact Information:
 Github: https://github.com/sheikb08
 
