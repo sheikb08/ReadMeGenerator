@@ -6,6 +6,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Demo](#demo)
   - [License](#license)
   - [Contributors](#contributors)
 
@@ -36,6 +37,9 @@ You must perform a "npm install" in the directory hosting the package file and r
 
 ## Usage 
 This application can be used to quickly create a formatted README.md file.
+
+# Demo
+![Readme Generator](images/demo.gif)
 
 ## Screenshot  
 |![Command Line Screenshot](images/screen.JPG)
