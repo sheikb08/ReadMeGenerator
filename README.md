@@ -42,7 +42,7 @@ This application can be used to quickly create a formatted README.md file.
 ![Readme Generator](images/demo.gif)
 
 ## Screenshot  
-|![Command Line Screenshot](images/screen.JPG)
+|![Command Line Screenshot](images/screen.JPG) | ![Readme Generator](images/screen2.JPG)
 
 ## License
 ISC
